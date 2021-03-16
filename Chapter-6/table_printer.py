@@ -16,7 +16,7 @@ def print_table(data):
     col_widths = get_longest_strings(data)
     for i in range(len(data[0])): # 0 - 3
         for j in range(len(data)): # 0 - 2
-            print(data[j][i].rjust(col_widths[j]), end=" ") # print data[0][0] data[1][0] data[2][0] in a row
+            print(data[j][i].rjust(col_widths[j]), end=" ") # print data[0][0] data[1][0] data[2][0] in a row, then data[0][1] data[1][1] data[2][1] in a row and so on
         print()
 
 print_table(table_data)
