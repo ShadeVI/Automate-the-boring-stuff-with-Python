@@ -44,9 +44,9 @@ while True:
 
     extra = pyip.inputYesNo(
         prompt="Do you want Mayo, Mustard, Lettuce or Tomato? ")
-    qty = pyip.inputInt("How many sandwiches you want? ", min=1)
-
     extra = "extra" if extra == "yes" else None
+
+    qty = pyip.inputInt("How many sandwiches you want? ", min=1)
 
     sandwich = [bread, protein, cheese_select, extra]
 
