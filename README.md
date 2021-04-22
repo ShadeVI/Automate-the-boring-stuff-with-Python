@@ -20,6 +20,11 @@
   - [Bot Zombie Dice](https://github.com/ShadeVI/Automate-the-boring-stuff-with-Python/blob/main/Chapter-6/MyZombie.py)
 
 - #### Chapter 7 (Pattern Matching with Regular Expressions):
+
   - [Date Detection](https://github.com/ShadeVI/Automate-the-boring-stuff-with-Python/blob/main/Chapter-7/date_detection.py)
   - [Strong Password Detection](https://github.com/ShadeVI/Automate-the-boring-stuff-with-Python/blob/main/Chapter-7/strong_password_detection.py)
   - [Regex Version of the strip() method](https://github.com/ShadeVI/Automate-the-boring-stuff-with-Python/blob/main/Chapter-7/regex_ver_strip_method.py)
+
+- #### Chapter 8 (Input Validation):
+  - [Sandwich Maker](https://github.com/ShadeVI/Automate-the-boring-stuff-with-Python/blob/main/Chapter-8/sandwich_maker.py)
+  - [multiplication_quiz](https://github.com/ShadeVI/Automate-the-boring-stuff-with-Python/blob/main/Chapter-8/multiplication_quiz.py)
